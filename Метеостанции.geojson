@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Метеостанции",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Address": "Борский мост" }, "geometry": { "type": "Point", "coordinates": [ 43.924237797334499, 56.353623150772613 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Address": "Канавинский мост" }, "geometry": { "type": "Point", "coordinates": [ 43.972400875308871, 56.328104668827429 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Address": "Метромост" }, "geometry": { "type": "Point", "coordinates": [ 43.962627289370872, 56.319912079896717 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Address": "Молитовский мост" }, "geometry": { "type": "Point", "coordinates": [ 43.961443958751104, 56.298928358604734 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Address": "Мызинский мост" }, "geometry": { "type": "Point", "coordinates": [ 43.945543375746752, 56.251276003941491 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Address": "Казанский съезд, д. 21" }, "geometry": { "type": "Point", "coordinates": [ 44.030285390107267, 56.327251050791794 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Address": "пр-т Гагарина, 166" }, "geometry": { "type": "Point", "coordinates": [ 43.96965236262448, 56.253926833473194 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Address": "ул. Ванеева (р.Старка)" }, "geometry": { "type": "Point", "coordinates": [ 44.034474496070374, 56.278171422561385 ] } }
+]
+}
