@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Табло",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Address": "Борский мост, у ДПС" }, "geometry": { "type": "Point", "coordinates": [ 43.921478952154871, 56.345590012200766 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Address": "ул. Сергея Акимова, напротив д 39 и 38" }, "geometry": { "type": "Point", "coordinates": [ 43.922225485355789, 56.34521754748188 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Address": "Похвалинский съезд перед въездом на Канавинский мост" }, "geometry": { "type": "Point", "coordinates": [ 43.979266607851713, 56.324128361724838 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Address": "Московское шоссе, в районе дома № 15" }, "geometry": { "type": "Point", "coordinates": [ 43.938500733038254, 56.321400349310835 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Address": "ул. Барминская, 1А, въезд на Метромост" }, "geometry": { "type": "Point", "coordinates": [ 43.977768830539233, 56.314583969925572 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Address": "Окский съезд перед въездом на Молитовский мост" }, "geometry": { "type": "Point", "coordinates": [ 43.969084752230835, 56.29898596876523 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Address": "Комсомольское шоссе, 6" }, "geometry": { "type": "Point", "coordinates": [ 43.942971640135141, 56.297209443425828 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Address": "ул. Героя Рябцева, 1Б" }, "geometry": { "type": "Point", "coordinates": [ 43.868235779963136, 56.316020513062291 ] } }
+]
+}
